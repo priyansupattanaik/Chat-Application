@@ -6,7 +6,7 @@ The RealTime Chat Application is a messaging platform developed in Python that e
 
 Before running the application, ensure you have the following installed:
 - Python 3.x
-- PyQt5 (for client/client_pyqt.py) or Tkinter (for client/client_tkinter.py)
+- PyQt5 (for client/client_pyqt.py)
 - Git (for version control)
 - An IDE or text editor of your choice
 
