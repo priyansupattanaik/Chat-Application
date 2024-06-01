@@ -14,12 +14,12 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/realtime-chat-application.git
+   git clone https://github.com/priyansupattanaik/Chat-Application
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd realtime-chat-application
+   cd Chat-Application
    ```
 
 3. Install the required dependencies:
@@ -51,18 +51,6 @@ Before running the application, ensure you have the following installed:
 2. Run the PyQt client script:
    ```bash
    python client_pyqt.py
-   ```
-
-### Client (Tkinter Version)
-
-1. Open a new terminal and navigate to the `client` directory:
-   ```bash
-   cd client
-   ```
-
-2. Run the Tkinter client script:
-   ```bash
-   python client_tkinter.py
    ```
 
 3. Enter your username and the chatroom code, then click "Connect" to start chatting.
